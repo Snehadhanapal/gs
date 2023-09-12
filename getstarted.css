@@ -1,0 +1,106 @@
+
+.whole{
+    height: 150vh;
+}
+
+.gs1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.gsnet{
+    width: 180px;
+}
+
+a{
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 35px;
+    margin-right: 50px;
+    font-size: larger;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+
+}
+
+.gs2{
+    display: inline-block;
+    text-align: left;
+    margin-left: 500px;
+
+}
+
+h6{
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: small;
+    font-weight: lighter;
+    color: rgb(141, 137, 137);
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: rgb(48, 42, 42);
+
+
+}
+
+.gs3{
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+
+}
+
+input{
+    width: 400px;
+    height: 50px;
+}
+
+.forgot{
+    color: rgb(35, 35, 179);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+
+}
+
+button{
+
+    background-color: rgb(233, 18, 18);
+    color: white;
+    width: 400px;
+    height: 60px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    border-radius: 5px;
+
+}
+
+button:hover{
+    background-color: rgb(248, 6, 6);
+}
+
+
+
+
+
+
+
+
+
+
+
+
